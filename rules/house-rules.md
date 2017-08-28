@@ -36,14 +36,13 @@ Vad ett Perfekt respektive Fummel resultat innebär beror på testet. För vissa
 som sker, i vissa fall beskrivs effekterna av ett Perfekt/Fummel i äventyret. I annat fall används tumregeln att du 
 bestämmer vilken bonus din RP får när du får ett Perfekt resultat medan SL avgör vad som sker när du Fumlar.
 
-Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad som händer i **Tabell: Fummel i strid** 
+Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad som händer i _Tabell: Fummel i strid_ 
 nedan.
 
+#### Tabell: Fummel i strid
 | 1T6 | Resultat |
 | --- | -------- |
 | 1-2 | Du slinter och förlorar en _Half Action_ i denna eller nästa SR. |
-| 3-4 | Du tappar ditt vapen som flyger iväg 1T6 meter i slumpmässig riktning. Slå 1T6, en 1 innebär att vapnet gått 
-sönder (om det inte är magiskt i vilket fall du får slå om). Om du inte har något vapen (eller sköld) i händerna, slå om. |
-| 5 | Du blottlägger dig för din motståndare som får göra en obeväpnad gratisattack alternativt en _Disengage_ dig som en 
-_Free Action_. |
+| 3-4 | Du tappar ditt vapen som flyger iväg 1T6 meter i slumpmässig riktning. Slå 1T6, en 1 innebär att vapnet gått  sönder (om det inte är magiskt i vilket fall du får slå om). Om du inte har något vapen (eller sköld) i händerna, slå om. |
+| 5 | Du blottlägger dig för din motståndare som får göra en obeväpnad gratisattack alternativt en _Disengage_ dig som en _Free Action_. |
 | 6 | Samma som ovan fast motståndaren får använda ett vapen. |
