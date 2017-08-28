@@ -1,13 +1,7 @@
 # Stadsbo
 Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
-### Fattig stadsbo
-<div class="jumbotron">
- <ul>
-        <li>Support for "optimistic locking"</li>
-        <li>Support for <code>https</code> in communication with Open Content</li>
-    </ul>
-</div>
+#### Fattig stadsbo
 
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
@@ -21,7 +15,7 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
 * * *
 
-### Rik stadsbo
+#### Rik stadsbo
 
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
