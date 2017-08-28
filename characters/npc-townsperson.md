@@ -1,7 +1,7 @@
 # Stadsbo
 Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
-## Fattig stadsbo
+### Fattig stadsbo
 
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
@@ -10,3 +10,17 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 **Skills:** Common Knowledge (Empire), Gossip +10%, Perception, Silent Move, Speak Language (Reikspiel)
 
 **Talents:** Alley Cat, Flee!
+
+**Trappings:** Dolk _eller_ pinne, börs med 1T10 s.
+
+### Rik stadsbo
+
+|WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
+|--|--|-|-|--|---|--|---|-|-|--|--|-|
+|25|25|3|3|25|30|30|30|1|9|3|3|4|
+
+**Skills:** Common Knowledge (Empire), Gossip, Haggle, Perception, Read/Write (Reikspiel), Speak Language (Reikspiel)
+
+**Talents:** Alley Cat
+
+**Trappings:** Dolk, värja, börs med 2T10+5 s.
