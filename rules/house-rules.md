@@ -1,5 +1,5 @@
 # Husregler
-Ett "quick sheet" med reglerna hittas här [Quick Sheet](https://drive.google.com/open?id=0B1mLHM9FvbskWlBPdGhuNkQ5NTg).
+Ett så kallat "quick sheet" med reglerna hittas här [Quick Sheet](https://drive.google.com/open?id=0B1mLHM9FvbskWlBPdGhuNkQ5NTg){:target="_blank"}.
 
 ## Skills and Talents (s. 88)
 ### Marginal
