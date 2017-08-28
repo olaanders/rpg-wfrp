@@ -1,4 +1,5 @@
 # Spelledarpersoner (SLP)
+
 ## Typiska SLP
 * [Stadsbo](npc-townsperson.md)
 * [Bonde](npc-farmer.md)
