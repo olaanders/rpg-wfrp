@@ -54,3 +54,30 @@ Silent Move, Speak Language (Dark Tongue).
 **Weapons:** Demilance or Hand Weapon; Shield or 2 Throwing Axes; Hooves; Horns (SB-1 Damage).
 
 **Slaughter Margin:** Challenging.
+
+<br>
+
+## Gor
+
+|WS|BS|S|T|Ag|Int|WP|Fel|
+|--|--|-|-|--|---|--|---|
+|40|25|35|44|35|26|25|25|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|1|12|3|4|5|0|0|0|
+
+**Skills:** Concealment, Follow Trail, Intimidate, Outdoor Survival, Perception, Shadowing, Silent Move, Speak Language 
+(Dark Tongue).
+
+**Talents:** Keen Senses, Menacing, Rover
+
+**Special Rules:**
+* _Chaos Mutations_. Animalistic Legs, Bestial Appearance, and Horns. There is a 25% chance of an additional mutation
+* _Silent as the beast of the Woods_ (se ovan)
+
+**Armour:** Light Armour (Leather Jack).
+
+**Armour Points:** Head 0, Arms 1, Body 1, Legs 0.
+
+**Weapons:** Hand Weapon or Spear; Hand Weapon or Shield; Horns (SB-1 Damage)
+
+**Slaughter Margin:** Average
