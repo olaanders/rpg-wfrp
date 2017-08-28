@@ -40,6 +40,13 @@ Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad 
 nedan.
 
 #### Tabell: Fummel i strid
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+dsfa
+
 |1T6|Resultat|
 |---|--------|
 |1-2|Du slinter och förlorar en _Half Action_ i denna eller nästa SR.|
