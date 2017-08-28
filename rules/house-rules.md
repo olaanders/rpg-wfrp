@@ -1,3 +1,8 @@
+---
+layout: default
+title: Husregler
+---
+
 # Husregler
 Ett så kallat "quick sheet" med reglerna hittas här [Quick Sheet](https://drive.google.com/open?id=0B1mLHM9FvbskWlBPdGhuNkQ5NTg){:target="_blank"}.
 
