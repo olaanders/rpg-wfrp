@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-<title>Hello Strapdown</title>
-
-<xmp theme="united" style="display:none;">
-
 # Stadsbo
 Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
-#### Fattig stadsbo
+## Fattig stadsbo
 
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
@@ -21,7 +15,7 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
 * * *
 
-#### Rik stadsbo
+## Rik stadsbo
 
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
@@ -32,8 +26,3 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 **Talents:** Alley Cat
 
 **Trappings:** Dolk, värja, börs med 2T10+5 s.
-
-</xmp>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
