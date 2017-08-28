@@ -40,12 +40,6 @@ Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad 
 nedan.
 
 #### Tabell: Fummel i strid
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-dsfa
 
 |1T6|Resultat|
 |---|--------|
@@ -54,4 +48,33 @@ dsfa
 |5|Du blottlägger dig för din motståndare som får göra en obeväpnad gratisattack alternativt en _Disengage_ dig som en _Free Action_.|
 |6| Samma som ovan fast motståndaren får använda ett vapen.|
 
-WOT
+### Att försöka igen
+Vissa tester kan du automatiskt försöka med på nytt om du skulle misslyckas, ex.v. i närstrid. I andra fall har du bara 
+ett antal försök innan du måste erkänna dig besegrad och måste ändra på omständigheterna för testet för att få försöka 
+igen.
+
+När du slår för ett test och misslyckas och vill försöka igen får du -10 på nästa försök, -20 på ett eventuellt nytt 
+försök och slutligen -30 på ditt sista försök innan du är tvungen att ge upp.
+
+Om du har misslyckats med tre försök kan du få försöka igen om du ändrar på förutsättningarna för testet. Du kanske 
+använder ett rep för att försöka klättra upp på väggen eller får du hjälp av en äventyrarkollega. I vissa fall kanske du 
+måste vänta en tid innan du får tre nya försök på testet. I slutändan är det upp till SL att bedöma vad som gäller.
+
+### Att få hjälp
+Om SL bedömer det möjligt kan du ta hjälp av en vän för att öka dina chanser. För att detta ska vara möjligt måste den 
+som hjälper dig ha fysisk möjlighet att göra detta och eventuellt de rätta färdigheterna.
+
+Den som hjälper behöver inte slå några slag. SL avgör hur mycket din chans modifieras av den hjälp du får. Den som 
+hjälper får inte utföra något annat under den tid som denne hjälper dig.
+
+## Combat, Damage & Movement (s. 124)
+
+### Fortune points
+
+* Rulla om - Du får rulla om ett misslyckat test mot en färdighet eller grundegenskap. Endast ett FP får användas för 
+ett misslyckat test.
+* Extra Parering/Ducka - Genom att spendera ett FP får du en extra parering eller ducka vilket gör att du får 
+parera/ducka mer än en gång per SR (vilket normalt sett är förbjudet).
+* Extra Initiativ - Du får en extra T10 att lägga till till ditt _Initiative_.
+* Extra Half Action - För ett FP får du en extra _Half Action_ att använda under en SR.
+* Slå om skadetärningen - Du får slå om din skadetärning.
