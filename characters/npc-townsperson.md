@@ -2,7 +2,12 @@
 Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
 ### Fattig stadsbo
-``` 
+<div class="jumbotron">
+ <ul>
+        <li>Support for "optimistic locking"</li>
+        <li>Support for <code>https</code> in communication with Open Content</li>
+    </ul>
+</div>
 |WS|BS|S|T|Ag|Int|WP|Fel|A|W|SB|TB|M|
 |--|--|-|-|--|---|--|---|-|-|--|--|-|
 |23|25|3|3|25|28|28|28|1|8|3|3|4|
@@ -12,7 +17,6 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 **Talents:** Alley Cat, Flee!
 
 **Trappings:** Dolk _eller_ pinne, börs med 1T10 s.
-```
 
 * * *
 
