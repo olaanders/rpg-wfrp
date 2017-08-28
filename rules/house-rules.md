@@ -5,13 +5,13 @@ I vissa fall kan det vara intressant att veta hur väl du lyckats eller hur illa
 genom att räkna ut Marginalen för ett test. Marginalen är lika med värdet på tiotalet på ditt tärningsslag (värdet på 
 den T10 du använder för tiotal), ju högre värde desto bättre marginal.
 
-> Exempel: Clems chans att lyckas är 45% för ett test och han slår 33 med tärningarna vilket ger en marginal på 3.
+> Clems chans att lyckas är 45% för ett test och han slår 33 med tärningarna vilket ger en marginal på 3.
 
 Marginalen kan vara intressant även om du misslyckas med ett test. I detta fall är det bättre ju lägre marginal du 
 misslyckas med. Du räknar ut marginalen genom att dra bort tiotalet på din chans att lyckas från tiotalet på ditt 
 tärningsslag.
 
-> Exempel: Clems chans att lyckas är 45% och han slår 47 vilket ger en misslyckad marginal lika med 0 (4-4). Om han istället hade slagit 81 skulle han ha misslyckats med en marginal på 4 (8-4).
+> Clems chans att lyckas är 45% och han slår 47 vilket ger en misslyckad marginal lika med 0 (4-4). Om han istället hade slagit 81 skulle han ha misslyckats med en marginal på 4 (8-4).
 
 ### Motståndsslag
 Motståndsslag (_Opposed Skill Test_) används när en motståndare har möjligheten att påverka din chans att lyckas med ett 
@@ -27,7 +27,7 @@ Skulle du och din motståndare få samma marginal slås ett nytt test tills en v
 Om du slår samma värde på båda tärningarna och lyckas med ditt test har du fått ett Perfekt resultat. Om du däremot 
 misslyckas med ett test och båda tärningarna har samma värde har du Fumlat.
 
-> Exempel: Clem försöker klättra upp för en bergssida. Hans chans att lyckas är 45% och han slår 22 – Perfekt! Inte nog 
+> Clem försöker klättra upp för en bergssida. Hans chans att lyckas är 45% och han slår 22 – Perfekt! Inte nog 
 med att Clem lyckas klättra upp till avsatsen längre upp, han gör det dessutom helt ljudlöst vilket är tur med tanke på 
 de grönskinn som står och slår dank på avsatsen. Om Clem däremot hade slagit 55 till exempel, hade han fumlat, tappat 
 greppet och trillat.
@@ -40,11 +40,11 @@ Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad 
 nedan.
 
 #### Tabell: Fummel i strid
-|1T6|Resultat|  
-|---|--------| 
-|1-2|Du slinter och förlorar en _Half Action_ i denna eller nästa SR.| 
-|3-4|Du tappar ditt vapen som flyger iväg 1T6 meter i slumpmässig riktning. Slå 1T6, en 1 innebär att vapnet gått  sönder (om det inte är magiskt i vilket fall du får slå om). Om du inte har något vapen (eller sköld) i händerna, slå om.| 
+|1T6|Resultat|
+|---|--------|
+|1-2|Du slinter och förlorar en _Half Action_ i denna eller nästa SR.|
+|3-4|Du tappar ditt vapen som flyger iväg 1T6 meter i slumpmässig riktning. Slå 1T6, en 1 innebär att vapnet gått  sönder (om det inte är magiskt i vilket fall du får slå om). Om du inte har något vapen (eller sköld) i händerna, slå om.|
 |5|Du blottlägger dig för din motståndare som får göra en obeväpnad gratisattack alternativt en _Disengage_ dig som en _Free Action_.|
 |6| Samma som ovan fast motståndaren får använda ett vapen.|
 
-sdsdff
+WOT
