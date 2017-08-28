@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages!!!
+## Grim and perilous adventure
+
+[Husregler](rules/house-rules.md) 
 
 You can use the [editor on GitHub](https://github.com/olaanders/rpg-wfrp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
