@@ -22,3 +22,28 @@ Om en av er misslyckas och den andre lyckas är utgången given. Men om båda ly
 båda misslyckas vinner den med lägst marginal.
 
 Skulle du och din motståndare få samma marginal slås ett nytt test tills en vinnare kan utses. 
+
+### Perfekt & Fummel
+Om du slår samma värde på båda tärningarna och lyckas med ditt test har du fått ett Perfekt resultat. Om du däremot 
+misslyckas med ett test och båda tärningarna har samma värde har du Fumlat.
+
+> Exempel: Clem försöker klättra upp för en bergssida. Hans chans att lyckas är 45% och han slår 22 – Perfekt! Inte nog 
+med att Clem lyckas klättra upp till avsatsen längre upp, han gör det dessutom helt ljudlöst vilket är tur med tanke på 
+de grönskinn som står och slår dank på avsatsen. Om Clem däremot hade slagit 55 till exempel, hade han fumlat, tappat 
+greppet och trillat.
+
+Vad ett Perfekt respektive Fummel resultat innebär beror på testet. För vissa test finns det särskilda regler för vad 
+som sker, i vissa fall beskrivs effekterna av ett Perfekt/Fummel i äventyret. I annat fall används tumregeln att du 
+bestämmer vilken bonus din RP får när du får ett Perfekt resultat medan SL avgör vad som sker när du Fumlar.
+
+Om du (eller din motståndare) fumlar i strid ska du rulla 1T6 och läsa av vad som händer i **Tabell: Fummel i strid** 
+nedan.
+
+1T6 | Resultat
+------------ | -------------
+1-2 | Du slinter och förlorar en _Half Action_ i denna eller nästa SR.
+3-4 | Du tappar ditt vapen som flyger iväg 1T6 meter i slumpmässig riktning. Slå 1T6, en 1 innebär att vapnet gått 
+sönder (om det inte är magiskt i vilket fall du får slå om). Om du inte har något vapen (eller sköld) i händerna, slå om.
+5 | Du blottlägger dig för din motståndare som får göra en obeväpnad gratisattack alternativt en _Disengage_ dig som en 
+_Free Action_.
+6 | Samma som ovan fast motståndaren får använda ett vapen.
