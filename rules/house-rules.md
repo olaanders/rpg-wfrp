@@ -1,4 +1,6 @@
 # Husregler
+Ett "quick sheet" med reglerna hittas här [Quick Sheet](https://drive.google.com/open?id=0B1mLHM9FvbskWlBPdGhuNkQ5NTg).
+
 ## Skills and Talents (s. 88)
 ### Marginal
 I vissa fall kan det vara intressant att veta hur väl du lyckats eller hur illa du misslyckats med ett test. Detta görs 
