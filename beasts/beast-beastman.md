@@ -4,6 +4,7 @@ Många bestmän har en särskild förmåga _Silent as the beast of the Woods_. D
 _Silent Move_ test och +10 på _Concealment_ test.
 
 ## Bestigor
+
 |WS|BS|S|T|Ag|Int|WP|Fel|
 |--|--|-|-|--|---|--|---|
 |45|25|41|47|37|25|35|27|
@@ -30,6 +31,7 @@ Silent Move, Speak Language (Dark Tongue).
 <br>
 
 ## Centigor
+
 |WS|BS|S|T|Ag|Int|WP|Fel|
 |--|--|-|-|--|---|--|---|
 |43|31|44|45|24|24|30|25|
