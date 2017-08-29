@@ -81,3 +81,12 @@ Silent Move, Speak Language (Dark Tongue).
 **Weapons:** Hand Weapon or Spear; Hand Weapon or Shield; Horns (SB-1 Damage)
 
 **Slaughter Margin:** Average
+
+## Ungors & Brays
+Ungors har små horn och Brays har inga horn alls. De är av betydligt lägre rang än sina kusiner, Gors och Bestigors.
+
+|**WS**|**BS**|**S**|**T**|**Agv|**Int**|**WP**|**Fel**|
+|--|--|-|-|--|---|--|---|
+|30|21|31|35|30|24|24|20|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|1|10|3|3|5|0|0|0|
