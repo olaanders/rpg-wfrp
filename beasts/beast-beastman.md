@@ -1,7 +1,7 @@
 # Beastmen/Bestmän
 
-Många bestmän har en särskild förmåga _Silent as the beast of the Woods_. Detta innebär att de får +20 på 
-_Silent Move_ test och +10 på _Concealment_ test.
+Många bestmän har en särskild förmåga _Silent as the beast of the Woods_. Detta innebär att de får +20% på 
+_Silent Move_ test och +10% på _Concealment_ test.
 
 ## Bestigor
 _De tuffaste och mest erfarna av bestmän kallas Bestigors. Bestmannaflockar leds alltid av en Bestigor._
@@ -12,7 +12,7 @@ _De tuffaste och mest erfarna av bestmän kallas Bestigors. Bestmannaflockar led
 |**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
 |1|14|4|4|5|0|0|0|
 
-**Skills:** Command, Concealment, Dodge Blow, Follow Trail, Intimidate +10, Outdoor Survival, Perception,Shadowing, 
+**Skills:** Command, Concealment, Dodge Blow, Follow Trail, Intimidate +10%, Outdoor Survival, Perception,Shadowing, 
 Silent Move, Speak Language (Dark Tongue)
 
 **Talents:** Keen Senses, Menacing, Rover, Specialist Weapon Group (Two-handed), Strike Mighty Blow

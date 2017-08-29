@@ -3,9 +3,9 @@
 _Slaanesh’s most potent symbols of seduction and languor
  are the Daemonettes. They resemble beautiful Human
  women, but have horny ridges instead of hair and scythe-like
- talons instead of hands. A Daemonette is an alluring killer.
+ talons instead of hands. A Daemonette is an alluring killer._
  
- Whenever possible she will start a fight by negotiating—or
+ _Whenever possible she will start a fight by negotiating—or
  rather, by seducing. If a potential opponent is willing to listen
  to her seductive whispers and murmurs, she will offer him
  pleasures undreamt of by mortals, lulling him with her words
