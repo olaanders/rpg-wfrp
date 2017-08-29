@@ -32,7 +32,7 @@ Dwarf has a single Chaos Mutation
 
 **Slaughter Margin:** Average
 
-´´´ 
+```
 Chaos Dwarf Magic
 Chaos Dwarf sorcerers favour spells that harness destructive
 volcanic energy.
