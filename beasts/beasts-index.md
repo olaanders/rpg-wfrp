@@ -34,3 +34,5 @@
 * [Chaos Marauders/Kaosvilde](beast-chaos-marauders.md){:target="_blank"}
 * [Chaos Warrior/Kaoskrigare](beast-chaos-warrior.md){:target="_blank"}
 * [Daemon - Bloodletter of Khorne](beast-bloodletter.md){:target="_blank"}
+* [Daemon - Chaos Furies](beast-chaos-furies.md){:target="_blank"}
+* [Daemon - Daemonettes of Slaanesh](beast-daemonettes-of-slaanesh.md){:target="_blank"}

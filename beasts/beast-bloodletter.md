@@ -1,4 +1,4 @@
-# Bloodletter of Khorne
+# Bloodletter of Khorne/Blodåterlåtare av Khorne
 
 _Bloodletters of Khorne are tall, muscular humanoids, with
  snarling bestial faces and great curving horns. Their skin is
