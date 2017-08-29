@@ -32,3 +32,4 @@
 * [Bull Centaur/Tjurkentaur](beast-bull-centaur.md){:target="_blank"}
 * [Chaos Dwarfs/Kaosdvärgar](beast-chaos-dwarfs.md){:target="_blank"}
 * [Chaos Marauders/Kaosvilde](beast-chaos-marauders.md){:target="_blank"}
+* [Chaos Warrior/Kaoskrigare](beast-chaos-warrior.md){:target="_blank"}
