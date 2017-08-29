@@ -29,3 +29,4 @@
 
 * [Banshee/Skogsrå](beast-banshee.md){:target="_blank"}
 * [Beastmen/Bestmän](beast-beastman.md){:target="_blank"}
+* [Chaos Dwarfs/Kaosdvärgar](beast-chaos-dwarfs.md){:target="_blank"}

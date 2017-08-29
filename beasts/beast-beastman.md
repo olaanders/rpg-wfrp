@@ -4,7 +4,7 @@ Många bestmän har en särskild förmåga _Silent as the beast of the Woods_. D
 _Silent Move_ test och +10 på _Concealment_ test.
 
 ## Bestigor
-De tuffaste och mest erfarna av bestmän kallas Bestigors. Bestmannaflockar leds alltid av en Bestigor.
+_De tuffaste och mest erfarna av bestmän kallas Bestigors. Bestmannaflockar leds alltid av en Bestigor._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
@@ -32,7 +32,7 @@ Silent Move, Speak Language (Dark Tongue)
 <br>
 
 ## Centigor
-Fyrbenta bestmän med en förkärlek till alkohol.
+_Fyrbenta bestmän med en förkärlek till alkohol._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
@@ -60,7 +60,7 @@ Fyrbenta bestmän med en förkärlek till alkohol.
 <br>
 
 ## Gor
-Anser sig själva vara "sanna" bestmän med sina stora horn och massiva kroppar. Gors utgör kärnan i varje flock.
+_Anser sig själva vara "sanna" bestmän med sina stora horn och massiva kroppar. Gors utgör kärnan i varje flock._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
@@ -88,7 +88,7 @@ Anser sig själva vara "sanna" bestmän med sina stora horn och massiva kroppar.
 <br>
 
 ## Ungors & Brays
-Ungors har små horn och Brays har inga horn alls. De är av betydligt lägre rang än sina kusiner, Gors och Bestigors.
+_Ungors har små horn och Brays har inga horn alls. De är av betydligt lägre rang än sina kusiner, Gors och Bestigors._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
