@@ -32,6 +32,8 @@ Dwarf has a single Chaos Mutation
 
 **Slaughter Margin:** Average
 
+<br>
+
 ### Chaos Dwarf Magic
 ```
 Chaos Dwarf sorcerers favour spells that harness destructive
