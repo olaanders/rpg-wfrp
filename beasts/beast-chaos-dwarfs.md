@@ -32,10 +32,11 @@ Dwarf has a single Chaos Mutation
 
 **Slaughter Margin:** Average
 
+### Chaos Dwarf Magic
 ```
-Chaos Dwarf Magic
 Chaos Dwarf sorcerers favour spells that harness destructive
 volcanic energy.
+
 Until Chaos Dwarf magic can be dealt with in detail, you
 can simulate such sorcerers with the various Wizard careers
 and Arcane Lore (Fire). Their spells are quite similar to the
