@@ -37,8 +37,7 @@ more favourable result.
 
 **Slaughter Margin:** Challenging
 
-**Chaos Armour**
-> Chaos Armour is worn by particularly powerful Chaos Warriors. It is a dark gift from the Ruinous Powers, and melds
+> Chaos Armour: Chaos Armour is worn by particularly powerful Chaos Warriors. It is a dark gift from the Ruinous Powers, and melds
 permanently with the wearer’s body, infusing him with the power of Chaos. It is heavy armour and provides 5 Armour
 Points like Full Plate Armour, but since it becomes part of the wearer’s body it is much less encumbering (Enc. 250).
 Additionally, a warrior so protected reduces the Critical Value of any Critical Hits suffered by 1. Chaos spellcasters can cast
