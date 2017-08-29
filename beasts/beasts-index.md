@@ -4,30 +4,31 @@
 
 ### Daemonic Aura
 * Icke-magiska vapen som träffar demonen gör -2 i skada 
-* Demonens egna attacker räknas som _magical_
+* Demonens egna attacker räknas som _Magical_
 * Demoner är immuna mot gift och syrebrist
 
 ### Ethereal
-* En varelse som är _ethereal_ har ingen substans och är viktlös
+* En varelse som är Ethereal har ingen substans och är viktlös
 * Den kan passera genom solida objekt
-* Eftersom varelsen är genomskinlig (typ) får den +30 på alla _Concealment_ test
+* Eftersom varelsen är genomskinlig (typ) får den +30 på alla Concealment-test
 * Varelsen är helt ljudlös
 * Immun mot normala vapen, demoner, besvärjelser och magiska vapen skadar som vanligt
-* Normalt kan en _ethereal_ varelse inte skada eller påverka fysiska ting
+* Normalt kan en Ethereal varelse inte skada eller påverka fysiska ting
 
 ### Scales
-* Talangen ger varelsen ett antal _Armour Points_ lika med den siffra som anges inom parantesen.
+* Talangen ger varelsen ett antal Armour Points lika med den siffra som anges inom parantesen.
 
 ### Unstoppable Blows
-* Alla test för _parry_ görs med -30
+* Alla test för Parry görs med -30
 
 ### Will of Iron
-* Varelsen är immun mot _fear_ och _terror_
-* Färdigheten _Intimidate_ eller talangen _Unsettling_ fungerar inte mot denna varelse
+* Varelsen är immun mot Fear och Terror
+* Färdigheten Intimidate eller talangen Unsettling fungerar inte mot denna varelse
 
 ## Monsterlista
 
 * [Banshee/Skogsrå](beast-banshee.md){:target="_blank"}
 * [Beastmen/Bestmän](beast-beastman.md){:target="_blank"}
-* [Chaos Dwarfs/Kaosdvärgar](beast-chaos-dwarfs.md){:target="_blank"}
 * [Bull Centaur/Tjurkentaur](beast-bull-centaur.md){:target="_blank"}
+* [Chaos Dwarfs/Kaosdvärgar](beast-chaos-dwarfs.md){:target="_blank"}
+* [Chaos Marauders/Kaosvilde](beast-chaos-marauders.md){:target="_blank"}
