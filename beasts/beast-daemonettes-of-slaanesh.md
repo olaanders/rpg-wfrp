@@ -24,7 +24,7 @@ _Slaanesh’s most potent symbols of seduction and languor
 **Skills:** Charm +20%, Dodge Blow, Gossip +20%, Night
 Vision, Perception, Performer (Dancer), Speak
 Arcane Language (Daemonic), Speak Language (Dark
-Tongue), Speak Language (any two), Torture
+Tongue), Speak Language (_any two_), Torture
 
 **Talents:** Ambidextrous, Daemonic Aura, Frightening,
 Natural Weapons, Will of Iron
@@ -34,7 +34,7 @@ Natural Weapons, Will of Iron
 bewildering that living opponents within 4 yards (2
 squares) suffer a –10% penalty to their Weapon Skill
 and Will Power Characteristics
-* Chaos Mutations: Animalistic Legs, Pincer Hand.
+* _Chaos Mutations_. Animalistic Legs, Pincer Hand.
 There is a 50% chance of an additional mutation
 * _Instability_. Daemons are not so solidly linked to
 the Old World as are mortals, and may sometimes
