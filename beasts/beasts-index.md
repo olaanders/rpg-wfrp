@@ -39,4 +39,4 @@
 * [Daemon - Horrors of Tzeentch](beast-horrors-of-tzeentch.md){:target="_blank"}
 * [Daemon - Plaguebearers of Nurgle](beast-plaguebearers-of-nurgle.md){:target="_blank"}
 * [Dire Wolf/Nattvarg](beast-dire-wolf.md){:target="_blank"}
-* [Dragon/Drake](beast-dragon.md){:target="_blank"}
+* [Dragon/Drake](beast-dragons.md){:target="_blank"}
