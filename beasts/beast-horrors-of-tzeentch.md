@@ -33,7 +33,7 @@ of 1. In a group of three to eight, each has a Magic
 Characteristic of 2. In groups of nine members or
 more, each has a Magic Characteristics of 3. Horrors
 can direct their energies towards casting the two spells
-noted in the Horror Magic sidebar. Note that Horrors
+noted in the _Horror Magic_ sidebar. Note that Horrors
 are subject to Tzeentch’s Curse, but the effects are
 spectacularly different. If a Horror gets a double or
 triple on a Casting Roll, a random Horror from the
@@ -55,3 +55,36 @@ of Chaos from which it came.
 **Weapons:** Claws
 
 **Slaughter Margin:** Hard
+
+## Horror Magic
+
+These two new spells can be cast by Horrors of Tzeentch only.
+
+### Tzeentch’s Fire
+**Casting Number:** 6
+
+**Casting Time:** Half action
+
+**Ingredient:** None
+
+**Description:** The Horror hurls a ball of shimmering pink
+and blue fire at one opponent within 48 yards (24 squares).
+This is a magic missile with Damage 4. Anyone struck by
+Tzeentch’s fire must also make a Will Power Test or be stunned
+for 1 round as the magic courses through them.
+
+### Uncontrollable Mutation
+**Casting Number:** 18
+
+**Casting Time:** Full action
+
+**Ingredient:** None
+
+**Description:** The merest touch of the Horror causes an
+opponent’s body to rend itself apart. This inflicts 1d10
+Wounds, regardless of Toughness Bonus or armour. If the
+target is slain, a new Horror immediately erupts from the
+victim’s body. It can act normally on the following round.
+If the target was wounded but not slain, he must make a
+Will Power Test or gain a mutation as per the touch of Chaos
+spell. Uncontrollable mutation is a touch spell.
