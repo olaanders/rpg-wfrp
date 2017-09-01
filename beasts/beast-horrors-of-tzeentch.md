@@ -56,35 +56,21 @@ of Chaos from which it came.
 
 **Slaughter Margin:** Hard
 
+<br>
+
 ## Horror Magic
 
 These two new spells can be cast by Horrors of Tzeentch only.
 
-### Tzeentch’s Fire
-**Casting Number:** 6
+|Tzeentch’s Fire|
+|---------------|
+|_Casting Number:_ 6|
+|_Casting Time:_ Half Action|
+|_Ingredient:_ None|
+|_Description:_ The Horror hurls a ball of shimmering pink and blue fire at one opponent within 48 yards (24 squares). This is a magic missile with Damage 4. Anyone struck by Tzeentch’s fire must also make a Will Power Test or be stunned for 1 round as the magic courses through them.|
 
-**Casting Time:** Half action
-
-**Ingredient:** None
-
-**Description:** The Horror hurls a ball of shimmering pink
-and blue fire at one opponent within 48 yards (24 squares).
-This is a magic missile with Damage 4. Anyone struck by
-Tzeentch’s fire must also make a Will Power Test or be stunned
-for 1 round as the magic courses through them.
-
-### Uncontrollable Mutation
-**Casting Number:** 18
-
-**Casting Time:** Full action
-
-**Ingredient:** None
-
-**Description:** The merest touch of the Horror causes an
-opponent’s body to rend itself apart. This inflicts 1d10
-Wounds, regardless of Toughness Bonus or armour. If the
-target is slain, a new Horror immediately erupts from the
-victim’s body. It can act normally on the following round.
-If the target was wounded but not slain, he must make a
-Will Power Test or gain a mutation as per the touch of Chaos
-spell. Uncontrollable mutation is a touch spell.
+|Uncontrollable Mutation|
+|-----------------------|
+|_Casting Number:_ 18|
+|_Casting Time:_ Full Action|
+|_Description:_ The merest touch of the Horror causes an opponent’s body to rend itself apart. This inflicts 1d10 Wounds, regardless of Toughness Bonus or armour. If the target is slain, a new Horror immediately erupts from the victim’s body. It can act normally on the following round. If the target was wounded but not slain, he must make a Will Power Test or gain a mutation as per the touch of Chaos spell. Uncontrollable mutation is a touch spell.|
