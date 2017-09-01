@@ -36,3 +36,4 @@
 * [Daemon - Bloodletter of Khorne](beast-bloodletter.md){:target="_blank"}
 * [Daemon - Chaos Furies](beast-chaos-furies.md){:target="_blank"}
 * [Daemon - Daemonettes of Slaanesh](beast-daemonettes-of-slaanesh.md){:target="_blank"}
+* [Daemon - Horrors of Tzeentch](beast-horrors-of-tzeentch.md){:target="_blank"}
