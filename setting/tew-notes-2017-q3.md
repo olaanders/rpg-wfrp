@@ -1,7 +1,7 @@
 # TEW 2017/Q3
 
 ## Book Two - The Enemy Wihtin
-Det är den 1 Sommerzeit. Ryktet om kriget i norr har nått Averheim och RP:na.
+Det är den 1:a Sommerzeit. Ryktet om kriget i norr har nått Averheim och RP:na.
 
 ### Inledning
 
@@ -11,9 +11,9 @@ på information om The Black Cowl. RP:nas efterforskningar ger att hon har
 rest till Middenheim.
 
 #### Friedrich Kaufman
-Adelsmannen anställer RP:na för att hitta smuts på och eventuellt hitta graverande
+Adelsmannen anställer RP:na för att hitta smuts på och eventuellt graverande
 bevis för att det är dennes rival, [Wolfgang Aschenbeck](/characters/npc-wolfgang-aschenbeck.md),
-som ligger bakom attackerna mot krutleveranserna som The Red Arrow har råkat
+som ligger bakom attackerna mot krutleveranserna som _The Red Arrow_ har råkat
 ut för. Han betalar 5 g nu och 10 g (per person) efter utfört uppdrag.
 
 #### Luminary Konrad Mauer
@@ -110,7 +110,7 @@ Singing Moon_, ett arty-farty ställe i de östra delarna av staden. Planen är
 att först hitta Adele Ketzenblum samt att kontakta professor Oppenheimer.
 
 #### Aschenbeck tråden
-På värdshuset träffar Husk Adolf Kühle som berättar att hans arbetsgivare, 
+På _The Singing Moon_ träffar Husk Adolf Kühle som berättar att hans arbetsgivare, 
 Wolfgang Aschenbeck verkar ha hamnat i klameri med rättvisan. Goda nyheter för 
 Kaufman?
 
@@ -133,7 +133,7 @@ RP:na lägger sig på lur utanför och får till slut kontakt med häxjägaren. 
 går med på att träffas dagen därpå på ett annat värdshus.
 
 Finn går dit ensam och träffar Adele i ett privat rum där hon bjuder på mat.
-Utfrågningen utvecklas till en utfrågning av Finn. Till slut verkar Adele fått
+Utfrågningen av Adele utvecklas snabbt till en utfrågning av Finn. Till slut verkar Adele fått
 reda på det hon vill veta och smiter från mötet.
 
 RP:na känner att något är fel och bestämmer sig för att göra inbrott i Adeles
