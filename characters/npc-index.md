@@ -11,6 +11,8 @@
 * [Präst](npc-priest.md){:target="_blank"}
 * [Jägare](npc-hunter.md){:target="_blank"}
 * [Lärd](npc-scholar.md){:target="_blank"}
+* [Häxjägare](npc-withchunger.md){:target="_blank"}
 
 ## Namngivna SLP
 * [Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}
+* [Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}
