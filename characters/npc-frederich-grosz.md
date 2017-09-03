@@ -21,7 +21,7 @@ Alcohol, Dodge Blow, Evaluate, Gamble, Gossip, Haggle, Intimidate,
 Perception, Secret Language (Thieves’ Tongue), Shadowing, Speak
 Language (Reikspiel) 
 
-**Talents:** Coolheaded, Disarm, Fleet Footed*, Lightning Reflexes,
+**Talents:** Coolheaded, Disarm, Fleet Footed, Lightning Reflexes,
 Menacing, Quick Draw, Street Fighting, Strike Mighty Blow, Strike to
 Injure, Strike to Stun
 

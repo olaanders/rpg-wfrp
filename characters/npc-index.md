@@ -13,11 +13,14 @@
 * [Lärd](npc-scholar.md){:target="_blank"}
 * [Häxjägare](npc-withchunger.md){:target="_blank"}
 * [Byråkrat](npc-bureaucrat.md){:target="_blank"}
+* [Hantverkare](npc-artisan.md){:target="_blank"}
 
 ## SLP i rockärmen
 * [Hansup, Ogre Watchman](npc-hansup-ogre.md){:target="_blank"}
 * [Prester Nordlingen, Politician](npc-prester-nordligen-politician.md){:target="_blank"}
-* [Hector von Pfeffering, Tollkeeper](npc-hector-von-Pfeffering.md){:target="_blank"}
+* [Hector von Pfeffering, Tollkeeper](npc-hector-von-pfeffering.md){:target="_blank"}
+* [Matheus Malthuisen, Barber-Surgeon](npc-matheus-malthuisen-barber-surgeon.md){:target="_blank"}
+* [Doctor Zindeá, Elf Physician](npc-doctor-zindea.md){:target="_blank"}
 
 ## Namngivna SLP
 * **[Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}**
