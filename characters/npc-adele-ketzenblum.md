@@ -40,6 +40,8 @@ Strike Mighty Blow, Strike to Injure, Strike to Stun, Tunnel Rat
 
 **Weapons:** Buckler; Hook/Dagger/Fork (handprotes)
 
+<br>
+
 ## Ritualer
 
 |Lure of Demonettes|
