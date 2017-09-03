@@ -15,7 +15,7 @@ becoming more prosperous by the day, and travellers are so fond of
 him they will stand with him — or seek bloody vengeance — should
 anything bad ever actually befall the poor lad._
 
-> Quote: “fivepencepleaseohpleasedon’tkillemdon’tkillmedon’tkillme!”
+> “fivepencepleaseohpleasedon’tkillemdon’tkillmedon’tkillme!”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |33|32|32|31|41|29|36|30|

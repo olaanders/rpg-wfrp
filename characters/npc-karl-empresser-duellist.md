@@ -12,7 +12,7 @@ from a fight if cornered, but he is also lazy. Wherever possible he’d
 rather glare at someone to make them do something rather than do it
 himself. In short, a bully — but a very dangerous one._
 
-> Quote: “Shut up, you idiot. And clean it again”
+> “Shut up, you idiot. And clean it again”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |55|38|43|43|41|34|34|39|

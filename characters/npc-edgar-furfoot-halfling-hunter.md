@@ -12,7 +12,7 @@ unparalleled woodland expertise, helping to clear the forests of
 greenskins and the altered. It certainly beats milking cows, although
 Edgar still gets homesick for one thing: his mothers’ pies_
 
-> Quote: “You wouldn’t last a minute in the wilds, city boy. I may be
+> “You wouldn’t last a minute in the wilds, city boy. I may be
 half your height, but I’m twice the man.”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|

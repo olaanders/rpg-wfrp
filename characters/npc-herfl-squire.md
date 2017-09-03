@@ -14,7 +14,7 @@ and sick of being beaten for his lack of diligence, it’s only a matter of
 time before Herfl runs away and seeks his fortune elsewhere — but Sir
 Aghmar will not look kindly upon anyone taking up with his property._
 
-> Quote: “Sorry, I was watching a squirrel. What did you say?”
+> “Sorry, I was watching a squirrel. What did you say?”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |26|29|26|41|31|29|38|32|

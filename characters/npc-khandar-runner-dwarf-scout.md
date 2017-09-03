@@ -12,7 +12,7 @@ probably knows them better than any being alive — and yet still, she
 says, they have innumerable secrets to teach her and new wonders to
 amaze her. And until she has seen it all, she will never stop running._
 
-> Quote: “Come on, come on, or you’ll miss the sunrise over Karak
+> “Come on, come on, or you’ll miss the sunrise over Karak
 Ungor!”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|

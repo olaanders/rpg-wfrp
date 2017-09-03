@@ -1,6 +1,6 @@
 # Trollkarl
 
-## Lärjunge (_Apprentice_)
+## Lärjunge _(Apprentice)_
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |29|30|29|28|26|38|41|31|
@@ -26,7 +26,7 @@ Petty Magic (Arcane), Savvy
 
 <br>
 
-## Gesäll (_Journeyman_)
+## Gesäll _(Journeyman)_
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |29|30|29|28|36|53|61|36|
@@ -49,3 +49,29 @@ Mighty Missile, Petty Magic (Arcane), Savvy
 **Weapons:** Dagger
 
 **Trappings:** Grimoire, Black Cloak, Sorcerous Crown, Writing Kit
+
+## Mästare _(Master Wizard)_
+
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
+|42|34|27|37|48|74|74|42|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|1|13|2|3|4|3|2|1|
+
+**Skills:** Academic Knowledge (Astronomy, Divining, Magick +10%,
+Runes), Channelling +10%, Charm, Common Knowledge (Elves, the
+Empire), Gossip, Magical Sense, Perception, Read/Write +10%, Ride,
+Search, Speak Arcane Language (Arcane Elf, Magick +10%), Speak
+Language (Classical +10%, Eltharin +10%, Reikspiel)
+
+**Talents:** Aethryic Atunement, Arcane Lore (the Heavens),
+Coolheaded, Dark Magic, Lesser Magic (Aethyric Armour, Skywalk),
+Meditation, Mighty Missile, Petty Magic (Arcane), Savvy, Strong-
+minded
+
+**Armour:** None
+
+**Armour Points:** Head 0, Arms 0, Body 0, Legs 0
+
+**Weapons:** None
+
+**Trappings:** Large Library, Trade Tools (Apothecary), Writing Kit

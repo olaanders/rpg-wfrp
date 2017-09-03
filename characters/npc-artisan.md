@@ -10,7 +10,7 @@ Evaluate +10, Gossip, Haggle +10, Perception, Read/Write, Secret
 Language (Guild Tongue), Speak Language (Khazalid, Reikspiel,
 Tilean), Trade (Gunsmith +20, Metalworker, Weaponsmith)
 
-**Talents:** Artistic, Dealmaker, Hardy*, Night Vision
+**Talents:** Artistic, Dealmaker, Hardy, Night Vision
 
 **Armour:** Leather Jerkin
 
