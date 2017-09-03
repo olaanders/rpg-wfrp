@@ -13,7 +13,7 @@ and most forbidden — of temples, and is working on her magnum
 opus: a definitive guide to the human body, complete with sketches.
 She does not, however, ever stoop to employing ‘resurrection men’._
 
-> Quote: “Does it hurt when I do this? What about this? Fascinating!”
+> “Does it hurt when I do this? What about this? Fascinating!”
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |35|47|38|43|46|70|43|49|

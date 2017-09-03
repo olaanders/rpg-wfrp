@@ -14,7 +14,7 @@ _Herr Doktor Malthuisen was weeks away from giving his life to the service
  the next two years working off his loan on board a ship called the
  Ingrid. Not a bad post, if only he could find a cure for seasickness._
  
-> Quote: “I know it tastes awful, but you can either drink this
+> “I know it tastes awful, but you can either drink this
  restorative or I can resort to leeches...there’s a good fellow. Nobody
  ever asks for the leeches.”
  
@@ -28,7 +28,7 @@ Knowledge (the Empire), Haggle, Heal, Intimidate, Gossip, Perception,
 Read/Write, Speak Language (Classical, Reikspiel +10), Swim, Trade
 (Apothecary)
 
-**Talents:** Hardy, Public Speaking, Savvy*, Strong-minded, Suave*,
+**Talents:** Hardy, Public Speaking, Savvy, Strong-minded, Suave,
 Surgery, Very Strong
 
 **Armour**: None
