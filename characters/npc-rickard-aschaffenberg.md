@@ -3,7 +3,9 @@ _En stor best till karl med ett enormt skägg. Iklär sig
 kläder av senaste slag samt tunga juveler och
 smycken._
 
-**Stats block:** Se [Adelsman](npc-noble.md){:target="_blank"}.
+![Lord Rickard Aschaffenberg](https://drive.google.com/file/d/0B1mLHM9FvbskT3FKV2hOdW81OVE/view?usp=sharing)
+
+**Stat block:** Se [Adelsman](npc-noble.md){:target="_blank"}.
 
 En lägre adelsman från Übersreik som nyligen gift sig
 med Ludmilla von Bruner av von Bruner familjen. I
