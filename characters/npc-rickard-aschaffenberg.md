@@ -3,7 +3,7 @@ _En stor best till karl med ett enormt skägg. Iklär sig
 kläder av senaste slag samt tunga juveler och
 smycken._
 
-![Lord Rickard Aschaffenberg](https://drive.google.com/file/d/0B1mLHM9FvbskT3FKV2hOdW81OVE/view?usp=sharing)
+[Bild - Lord Rickard Aschaffenberg](https://drive.google.com/file/d/0B1mLHM9FvbskT3FKV2hOdW81OVE/view?usp=sharing){:target="_blank"}
 
 **Stat block:** Se [Adelsman](npc-noble.md){:target="_blank"}.
 
