@@ -8,10 +8,10 @@
 |2|16|3|3|4|0|1|0|
 
 **Skills:** Academic Knowledge (Strategy/Tactics), Animal Care,
-Command, Common Knowledge (the Empire +10, Tilea),
+Command, Common Knowledge (the Empire +10%, Tilea),
 Consume Alcohol, Charm, Dodge Blow, Gossip +10, Intimidate,
 Perception, Read/Write, Ride, Secret Language (Battle Tongue), Secret
-Signs (Scout), Speak Language (Reikspiel +10, Tilean)
+Signs (Scout), Speak Language (Reikspiel +10%, Tilean)
 
 **Talents:** Etiquette, Lightning Parry, Marksman*, Master Gunner,
 Public Speaking, Quick Draw, Rapid Reload, Savvy*, Schemer,
@@ -37,7 +37,7 @@ Noble’s Garb
 |**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
 |2|12|3|4|4|0|1|0|
 
-**Skills:** Animal Care, Common Knowledge (the Empire +10), Dodge
+**Skills:** Animal Care, Common Knowledge (the Empire +10%), Dodge
 Blow, Drive, Follow Trail, Gossip, Navigation, Outdoor Survival,
 Perception, Ride, Search, Secret Signs (Scout), Speak Language
 (Reikspiel)
