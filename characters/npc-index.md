@@ -15,6 +15,7 @@
 * [Byråkrat](npc-bureaucrat.md){:target="_blank"}
 * [Hantverkare](npc-artisan.md){:target="_blank"}
 * [Handelsman](npc-tradesman.md){:target="_blank"}
+* [Missdådare](npc-evildoer.md){:target="_blank"}
 
 ## SLP i rockärmen
 * [Hansup, Ogre Watchman](npc-hansup-ogre.md){:target="_blank"}
@@ -25,6 +26,9 @@
 * [Edgar Furfoot, Halfling Hunter](npc-edgar-furfoot-halfling-hunter.md){:target="_blank"}
 * [Khandar the Runner, Dwarf Scout](npc-khandar-runner-dwarf-scout.md){:target="_blank"}
 * [Karl Empresser, Duellist](npc-karl-empresser-duellist.md){:target="_blank"}
+* [Herfl, Squire](npc-herfl-squire.md){:target="_blank"}
+* [Clever Tom, Halfling Rogue](npc-clever-tom-halfling-rogue.md){:target="_blank"}
+* [Professor Ferdinand Pflaumbe, Charlatan](npc-ferdinand-pflaumbe-charlatan.md){:target="_blank"}
 
 ## Namngivna SLP
 * **[Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}**
