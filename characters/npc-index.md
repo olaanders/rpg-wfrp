@@ -6,12 +6,15 @@
 * [Stadsvakt](npc-city-watch.md){:target="_blank"}
 * [Soldat](npc-soldier.md){:target="_blank"}
 * [Officerare](npc-officer.md){:target="_blank"}
-* [Adelsman](npc-noble.md){:target="_blank"}
+* [Aristokrat](npc-noble.md){:target="_blank"}
 * [Trollkarl](npc-wizard.md){:target="_blank"}
 * [Präst](npc-priest.md){:target="_blank"}
 * [Jägare](npc-hunter.md){:target="_blank"}
 * [Lärd](npc-scholar.md){:target="_blank"}
 * [Häxjägare](npc-withchunger.md){:target="_blank"}
+
+## SLP i rockärmen
+* [Hansup, Ogre Watchman](npc-hansup-ogre.md){:target="_blank"}
 
 ## Namngivna SLP
 * **[Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}**

@@ -3,8 +3,7 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
 ## Fattig stadsbo
 
-|WS|BS|S|T|Ag|Int|WP|Fel|
-|--|--|-|-|--|---|--|---|
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |23|25|3|3|25|28|28|28|
 |**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
 |1|8|3|3|4|0|0|0|
@@ -19,8 +18,7 @@ Kommer i alla former och färger. Ofta "streetsmart" och lite elaka.
 
 ## Rik stadsbo
 
-|WS|BS|S|T|Ag|Int|WP|Fel|
-|--|--|-|-|--|---|--|---|
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |25|25|3|3|25|30|30|30|
 |**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
 |1|9|3|3|4|0|0|0|
