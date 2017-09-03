@@ -14,5 +14,11 @@
 * [Häxjägare](npc-withchunger.md){:target="_blank"}
 
 ## Namngivna SLP
-* [Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}
 * [Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}
+* [Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}
+* Adolphus Stark. Båtburen handelsman som ofta gör affärer i Averheim (med silke ex.v.). 
+Mörkt tjockt hår med gråsprängda tinningar. Svart helskägg med silverådror.
+* Albrecht Krug. Stor och bullrig man med råttfärgat ovårdat hår. Bred näsa som slagits 
+sönder vid några tillfällen. Kultist i _The Order of the Unblinking Eye_. Körkarl, anställd 
+vid Aschaffenbergs herrgård, Grunewalt Lodge. Numera på fykt undan rättvisan efter att ha
+blivit avslöjad som kultist.
