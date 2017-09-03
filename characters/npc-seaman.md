@@ -1,5 +1,31 @@
 # Sjöman
 
+## Matros 
+
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
+|33|32|30|39|32|29|26|27|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|1|12|3|4|4|0|0|0|
+
+**Skills:** Common Knowledge (the Empire, the Wasteland +10%),
+Consume Alcohol, Dodge Blow, Gamble, Gossip, Intimidate, Row, Sail,
+Secret Language (Battle Tongue), Speak Language (Norse, Reikspiel),
+Swim, Trade (Shipwright)
+
+**Talents:** Coolheaded, Disarm, Resistance to Disease, Resistance to
+Magic, Seasoned Traveller, Street Fighter, Strike Mighty Blow, Strike
+to Stun
+
+**Armour:** Leather Jack
+
+**Armour Points:** Head 0, Arms 1, Body 1, Legs 0
+
+**Weapons:** Crossbow, Shield
+
+**Trappings:** 10 Bolts, Grappling Hook, 10 Yards of Rope
+
+<br>
+
 ## Sjökapten
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
@@ -23,28 +49,4 @@ Street Fighting, Strike Mighty Blow, Suave, Swashbuckler
 
 **Weapons:** Rapier
 
-**Trappings:** Puffy Shirt, Telescope, Trade ship the Ingrid
-
-## Sjöman 
-
-|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
-|33|32|30|39|32|29|26|27|
-|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
-|1|12|3|4|4|0|0|0|
-
-**Skills:** Common Knowledge (the Empire, the Wasteland +10%),
-Consume Alcohol, Dodge Blow, Gamble, Gossip, Intimidate, Row, Sail,
-Secret Language (Battle Tongue), Speak Language (Norse, Reikspiel),
-Swim, Trade (Shipwright)
-
-**Talents:** Coolheaded, Disarm, Resistance to Disease, Resistance to
-Magic, Seasoned Traveller, Street Fighter, Strike Mighty Blow, Strike
-to Stun
-
-**Armour:** Leather Jack
-
-**Armour Points:** Head 0, Arms 1, Body 1, Legs 0
-
-**Weapons:** Crossbow, Shield
-
-**Trappings:** 10 Bolts, Grappling Hook, 10 Yards of Rope
+**Trappings:** Puffy Shirt, Telescope, Trade ship _the Ingrid_

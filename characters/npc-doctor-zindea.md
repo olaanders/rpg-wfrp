@@ -27,7 +27,7 @@ Language (Breton, Classical, Eltharin, Reikspiel, Tilean), Trade (Artist,
 Calligrapher)
 
 **Talents:** Aethyric Atunement, Excellent Vision, Linguistics, Night
-Vision, Resistance to Disease, Savvy*, Strike to Stun, Surgery
+Vision, Resistance to Disease, Savvy, Strike to Stun, Surgery
 
 **Armour:** None
 

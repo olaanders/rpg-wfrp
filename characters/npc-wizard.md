@@ -50,6 +50,8 @@ Mighty Missile, Petty Magic (Arcane), Savvy
 
 **Trappings:** Grimoire, Black Cloak, Sorcerous Crown, Writing Kit
 
+<br>
+
 ## Mästare _(Master Wizard)_
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|

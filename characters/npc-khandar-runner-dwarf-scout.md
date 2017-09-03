@@ -25,7 +25,7 @@ Blow, Follow Trail, Navigation, Outdoor Survival, Perception, Secret
 Signs (Scout), Speak Language (Khazalid, Reikspiel), Swim, Trade
 (Miner)
 
-**Talents:** Dwarfcraft, Flee!, Fleet Footed*, Grudge-born Fury, Night
+**Talents:** Dwarfcraft, Flee!, Fleet Footed, Grudge-born Fury, Night
 Vision, Orientation, Rapid Reload, Resistance to Magic, Specialist
 Weapon Group (Crossbow), Stout-hearted, Sturdy, Very Strong
 

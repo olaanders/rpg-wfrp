@@ -21,6 +21,8 @@ Language (Reikspiel +10%)
 
 **Trappings:** Deck of Cards, 2T10+5 s
 
+<br>
+
 ## Stråtrövare
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
