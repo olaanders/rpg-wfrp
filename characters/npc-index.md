@@ -45,3 +45,49 @@ En av få överlevande efter bestmanna och kultist attacken på herrgården Grun
                         den skarpaste kniven men med hjärtat på rätta stället
                         och kapabel att utföra sitt jobb som sergeant
                         fäckfritt.                   
+* **Beatrice Knox.** Spel och dobblare i Averheim. Söt blondin i sin övre
+    20 med stora gråtmilda ögon. Klär sig i pojkaktiga
+    kläder. Hett temperament, skaffar sig vänner lika fort
+    som hon gör sig av med gamla bekantskaper.
+    Hon har en hel del spelskulder och den nya bossen i
+    Averheim, The Black Cowl, verkar inte lika lätt att
+    dupera som tidigare bossar.
+* **Bernhardt Kurtz.** Värdshusvärd för _The White Horse_. En gammal
+    krigsveteran som förvisso bär fysiska ärr från krig
+    men det djupaste såret fnns i hans sons död (Uwe
+    Kurtz) som dog vid The Third Battle of Black Fire Pass.
+    Bernhardt är en storvuxen man i 50 års åldern med
+    en tilltagen midja och undfyende hårlinje. Han har ett
+    par imponerande polisonger och saknar tre fngrar på
+    vänster hand. Förvisso trevlig men ändå lakonisk.
+* **Cruella von Ville.** Rik, äldre, kvinna gift med Wolfgang von Ville,
+                         framgångsrik köpman i Averheim. Cruella är vacker
+                         sin ålder till trots och stoltserar med en fgur som
+                         lyckats hålla tiden på en armlängds avstånd. Hennes
+                         svarta, enorma, peruk är det första man ser när man
+                         träffar Cruella. Hon tenderar att använda för mycket
+                         smink och hennes skönhetsfäck fyttar runt mellan
+                         tillfällena man träffar henne.
+                         Cruella är trött på sin tråkiga man och konspirerar
+                         bakom hans rygg för att tillförskansa sig en högre
+                         position i samhället. Hon har, via sin syssling
+                         Theodosius von Tuchtenhagen en gnutta blått blod i
+                         sina ådror vilket hon ofta påpekar.
+* **Dieter Jochutz.** Garvare från Averheim. Tunnhårig medelålders man
+    som spenderar sin tid på The White Horse. Åtföljs
+    ständigt av en odör av dynga och kalksten.
+    För ett par veckor sedan fck Dieter besked att hans
+    garveri var vattenskadat och att “myndigheterna”
+    skulle laga det åt honom. Under tiden skulle han hålla
+    sig borta. “Myndigheterna” har ersatt Dieter för
+    förlorad inkomst.
+* **Flea.** Föräldralös ficka från sydvästra Reikland. Ser ut som
+    Newt i Aliens. Adopterad av **Arno Kessler** efter
+    händelserna i The Gathering Storm.
+* **Florian Wechsler (✝).** Olycksdrabbad köpman från Übersreik med
+    kontakter, bland annat med Lord Rickard Aschaffenberg.
+* **Foaldeath.** Bestmanna-schaman. Efter händelserna i The
+    Gathering Storm är Foaldeath ledare över den
+    bestmanna-hjord som härjar i området kring
+    Oberslecht.
+* **[Frederich Grosz](npc-frederich-grosz.md){:target="_blank"}**    
