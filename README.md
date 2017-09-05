@@ -1,6 +1,6 @@
 # Grim and perilous adventure awaits...
 
-* [Husregler](rules/house-rules.md) 
+* [Husregler](rules/rules-index.md) 
 * [Kampanjer](setting/setting-index.md)
 * [Rollpersoner](characters/pc-index.md)
 * [SLP](characters/npc-index.md)
