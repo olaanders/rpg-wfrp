@@ -1,7 +1,7 @@
 # Husregler
 
 > "The young man knows the rules, but the old man knows the exceptions"
-
+>
 > -Oliver Wendell Holmes, Sr.
 
 * [Quick Sheet](https://drive.google.com/open?id=0B1mLHM9FvbskWlBPdGhuNkQ5NTg){:target="_blank"}

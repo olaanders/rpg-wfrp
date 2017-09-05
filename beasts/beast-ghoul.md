@@ -1,6 +1,6 @@
 # Ghouls/Likätare
 
-Ghouls closely resemble crooked, skinny, misshapen
+_Ghouls closely resemble crooked, skinny, misshapen
 Humans with feral eyes. They are believed to file their
 teeth, and so have upper and lower rows of triangular
 cutting fangs, perfect for biting and tearing flesh. More

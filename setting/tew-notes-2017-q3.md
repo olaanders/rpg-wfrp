@@ -12,13 +12,13 @@ rest till Middenheim.
 
 #### Friedrich Kaufman
 Adelsmannen anställer RP:na för att hitta smuts på och eventuellt graverande
-bevis för att det är dennes rival, [Wolfgang Aschenbeck](/characters/npc-wolfgang-aschenbeck.md),
+bevis för att det är dennes rival, [Wolfgang Aschenbeck](/characters/npc-wolfgang-aschenbeck.md){:target="_blank"},
 som ligger bakom attackerna mot krutleveranserna som _The Red Arrow_ har råkat
 ut för. Han betalar 5 g nu och 10 g (per person) efter utfört uppdrag.
 
 #### Luminary Konrad Mauer
 Konrad har klockkläppan och vill att RP:na tar den till Middenheim för att
-rensa den från kaos. Konrad har en bekant, [Robertus von Oppenheim](/characters/npc-robertus-oppenheim.md),
+rensa den från kaos. Konrad har en bekant, [Robertus von Oppenheim](/characters/npc-robertus-oppenheim.md){:target="_blank"},
 som är forskare vid _Teologisk Kollegiet_. Han har skrivit en avhandling om hur
 man med "Gudomlig Magi" skulle kunna rena smittade artefakter. Trollkarlen
 betalar 10 g nu och 5 g (per person) efter utfört uppdrag.
@@ -28,13 +28,13 @@ diverse magiska lås och fällor. "Ingen öppnar denna låda utan mitt godkänna
 förkunnar Luminary Konrad Mauer.
 
 #### Lösa trådar
-[Frederich Grosz](/characters/npc-frederich-grosz.md) kontaktar Dieter. Han 
+[Frederich Grosz](/characters/npc-frederich-grosz.md){:target="_blank"} kontaktar Dieter. Han 
 förklarar att The Black Cowl är ute efter honom och vill att Dieter och 
 dennes vänner ska eskortera honom ut ur staden. Han berättar vidare att det
 var Black Cowl som pressade honom att sköta de smutsiga affärerna med Linus
 Atzwig. Dieter säger nej och de båda skilja som ovänner.
 
-Husk får information om att [Alfred Kühle](/characters-alfred-kuhle.md) har rest 
+Husk får information om att [Alfred Kühle](/characters/npc-index.md){:target="_blank"} har rest 
 till Middenheim för att gå med i _The Aschenbeck Bravos_.
 
 ### Mot Middenheim
