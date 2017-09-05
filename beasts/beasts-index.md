@@ -41,3 +41,4 @@
 * [Dire Wolf/Nattvarg](beast-dire-wolf.md){:target="_blank"}
 * [Dragon/Drake](beast-dragons.md){:target="_blank"}
 * [Dragon Ogre/Drakrese](beast-dragon-ogres.md){:target="_blank"}
+* [Dryads/Trädnymfer](beast-dryad.md){:target="_blank"}
