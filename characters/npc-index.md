@@ -19,62 +19,17 @@
 * [Trollkarl](npc-wizard.md){:target="_blank"}
 
 ## Namngivna SLP
-* **[Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}**
-* **[Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}**
-* **[Adolphus Stark](npc-index.md#Adolphus Stark).** Båtburen handelsman som ofta gör affärer i Averheim (med silke ex.v.). 
-Mörkt tjockt hår med gråsprängda tinningar. Svart helskägg med silverådror.
-* **Albrecht Krug.** Stor och bullrig man med råttfärgat ovårdat hår. Bred näsa som slagits 
-sönder vid några tillfällen. Kultist i _The Order of the Unblinking Eye_. Körkarl, anställd 
-vid Aschaffenbergs herrgård, Grunewalt Lodge. Numera på fykt undan rättvisan efter att ha
-blivit avslöjad som kultist.
-* **Alfred Kühle.** Muskulös rödhårig man med fräknar. Lite dum uppsyn men bakom den sega 
-fasaden gömmer sig en tänkare och genuint snäll man. Livvakt och, enligt ryktet, medlem i 
-_The Southland Expedition_. Det senaste ryktet säger att han rest till Middenheim för att 
-gå med i _The Aschenbecks Bravados_.
-* **Anders Blucher.** Vaktkapten vid Grunewalt Lodge. Välvårdad man med blont hår i snelugg. 
-Breda käkar med matchande axlar. Uppskattar alla former av militäriska seder och bruk. 
-En av få överlevande efter bestmanna och kultist attacken på herrgården Grunewalt Lodge.
-* **Arno Kessler.** Vaktkapten i Stromdorf. Vältränad trots sin ålder men
-med tydliga spår av de bataljer han har varit
-involverad i (saknar bl.a. en arm). Rakryggad och
-“militärisk” i sitt sätt oavsett situation.
-Kessler är en “krigets man”. Han saknar den verbala
-fness som behövs för politik, och hans bryska sätt är
-inte uppskattat av alla i Stromdorf.
-Styvpappa till **Flea**. Efter rollpersonernas insatser i
-_The Gathering Storm_ betraktar han rollpersonerna som
-sina vänner trots att han var tvungen att köra dem på
-porten i slutet av äventyret.
-* **Balthus Thalberg.** Sergeant vid Stromdorfs stadsvakt. Två meters
-fyrtorn med en haka utmejslad av gudarna själva. Inte
-den skarpaste kniven men med hjärtat på rätta stället
-och kapabel att utföra sitt jobb som sergeant fäckfritt.                   
-* **Beatrice Knox.** Spel och dobblare i Averheim. Söt blondin i sin övre
-20 med stora gråtmilda ögon. Klär sig i pojkaktiga
-kläder. Hett temperament, skaffar sig vänner lika fort
-som hon gör sig av med gamla bekantskaper.
-Hon har en hel del spelskulder och den nya bossen i
-Averheim, The Black Cowl, verkar inte lika lätt att
-dupera som tidigare bossar.
-* **Bernhardt Kurtz.** Värdshusvärd för _The White Horse_. En gammal
-krigsveteran som förvisso bär fysiska ärr från krig
-men det djupaste såret fnns i hans sons död (Uwe
-Kurtz) som dog vid The Third Battle of Black Fire Pass.
-Bernhardt är en storvuxen man i 50 års åldern med
-en tilltagen midja och undfyende hårlinje. Han har ett
-par imponerande polisonger och saknar tre fngrar på
-vänster hand. Förvisso trevlig men ändå lakonisk.
-* **Cruella von Ville.** Rik, äldre, kvinna gift med Wolfgang von Ville,
-framgångsrik köpman i Averheim. Cruella är vacker
-sin ålder till trots och stoltserar med en fgur som
-lyckats hålla tiden på en armlängds avstånd. Hennes
-svarta, enorma, peruk är det första man ser när man
-träffar Cruella. Hon tenderar att använda för mycket
-smink och hennes skönhetsfäck fyttar runt mellan
-tillfällena man träffar henne.
-Cruella är trött på sin tråkiga man och konspirerar
-bakom hans rygg för att tillförskansa sig en högre
-position i samhället. Hon har, via sin syssling
+* [Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}
+* [Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}
+* [Adolphus Stark](npc-index.md#Adolphus Stark)
+* [Albrecht Krug](npc-index.md#Albrecht Krug) 
+* [Alfred Kühle](npc-index.md#Alfred Kühle)
+* [Anders Blucher](npc-index.md#Anders Blucher)
+* [Arno Kessler](npc-index.md#Arno Kessler)
+* [Balthus Thalberg](npc-index.md#Balthus Thalberg)                   
+* [Beatrice Knox](npc-index.md#Beatrice Knox)
+* [Bernhardt Kurtz](npc-index.md#Bernhardt Kurtz)
+* [Cruella von Ville](npc-index.md#Cruella von Ville)
 **Theodosius von Tuchtenhagen** en gnutta blått blod i
 sina ådror vilket hon ofta påpekar.
 * **Dieter Jochutz.** Garvare från Averheim. Tunnhårig medelålders man
@@ -110,4 +65,75 @@ bestmanna-hjord som härjar i området kring Oberslecht.
 * [Prester Nordlingen, Politician](npc-prester-nordligen-politician.md){:target="_blank"}
 * [Professor Ferdinand Pflaumbe, Charlatan](npc-ferdinand-pflaumbe-charlatan.md){:target="_blank"}
 
-<a name="Adolphus Stark"/>Adolphus Stark
+## <a name="Adolphus Stark"/>Adolphus Stark
+Båtburen handelsman som ofta gör affärer i Averheim (med silke ex.v.). 
+Mörkt tjockt hår med gråsprängda tinningar. Svart helskägg med silverådror.
+
+## <a name="Albrecht Krug"/>Albrecht Krug
+Stor och bullrig man med råttfärgat ovårdat hår. Bred näsa som slagits 
+sönder vid några tillfällen. Kultist i _The Order of the Unblinking Eye_. Körkarl, anställd 
+vid Aschaffenbergs herrgård, Grunewalt Lodge. Numera på fykt undan rättvisan efter att ha
+blivit avslöjad som kultist.
+
+## <a name="Alfred Kühle/>Alfred Kühle
+Muskulös rödhårig man med fräknar. Lite dum uppsyn men bakom den sega 
+fasaden gömmer sig en tänkare och genuint snäll man. Livvakt och, enligt ryktet, medlem i 
+_The Southland Expedition_. Det senaste ryktet säger att han rest till Middenheim för att 
+gå med i _The Aschenbecks Bravados_.
+
+## <a name="Anders Blucher"/>Anders Blucher
+Vaktkapten vid Grunewalt Lodge. Välvårdad man med blont hår i snelugg. 
+Breda käkar med matchande axlar. Uppskattar alla former av militäriska seder och bruk. 
+En av få överlevande efter bestmanna och kultist attacken på herrgården Grunewalt Lodge.
+
+## <a name="Arno Kessler"/>Arno Kessler
+Vaktkapten i Stromdorf. Vältränad trots sin ålder men
+med tydliga spår av de bataljer han har varit
+involverad i (saknar bl.a. en arm). Rakryggad och
+“militärisk” i sitt sätt oavsett situation.
+Kessler är en “krigets man”. Han saknar den verbala
+fness som behövs för politik, och hans bryska sätt är
+inte uppskattat av alla i Stromdorf.
+
+Styvpappa till [Flea](npc-index.md#Flea). Efter rollpersonernas insatser i
+_The Gathering Storm_ betraktar han rollpersonerna som
+sina vänner trots att han var tvungen att köra dem på
+porten i slutet av äventyret.
+
+## <a name="Balthus Thalberg"/>Balthus Thalberg
+Sergeant vid Stromdorfs stadsvakt. Två meters
+fyrtorn med en haka utmejslad av gudarna själva. Inte
+den skarpaste kniven men med hjärtat på rätta stället
+och kapabel att utföra sitt jobb som sergeant fäckfritt.
+
+## <a name="Beatrice Knox"/>Beatrice Knox
+Spel och dobblare i Averheim. Söt blondin i sin övre
+20 med stora gråtmilda ögon. Klär sig i pojkaktiga
+kläder. Hett temperament, skaffar sig vänner lika fort
+som hon gör sig av med gamla bekantskaper.
+Hon har en hel del spelskulder och den nya bossen i
+Averheim, The Black Cowl, verkar inte lika lätt att
+dupera som tidigare bossar.
+
+## <a name="Bernhardt Kurtz"/>Bernhardt Kurtz
+Värdshusvärd för _The White Horse_. En gammal
+krigsveteran som förvisso bär fysiska ärr från krig
+men det djupaste såret fnns i hans sons död (Uwe
+Kurtz) som dog vid The Third Battle of Black Fire Pass.
+Bernhardt är en storvuxen man i 50 års åldern med
+en tilltagen midja och undfyende hårlinje. Han har ett
+par imponerande polisonger och saknar tre fngrar på
+vänster hand. Förvisso trevlig men ändå lakonisk.
+
+## <a name="Cruella von Ville"/>Cruella von Ville
+Rik, äldre, kvinna gift med Wolfgang von Ville,
+framgångsrik köpman i Averheim. Cruella är vacker
+sin ålder till trots och stoltserar med en fgur som
+lyckats hålla tiden på en armlängds avstånd. Hennes
+svarta, enorma, peruk är det första man ser när man
+träffar Cruella. Hon tenderar att använda för mycket
+smink och hennes skönhetsfäck fyttar runt mellan
+tillfällena man träffar henne.
+Cruella är trött på sin tråkiga man och konspirerar
+bakom hans rygg för att tillförskansa sig en högre
+position i samhället. Hon har, via sin syssling
