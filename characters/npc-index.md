@@ -21,7 +21,7 @@
 ## Namngivna SLP
 * **[Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}**
 * **[Lord Rickard Aschaffenberg](npc-rickard-aschaffenberg.md){:target="_blank"}**
-* **Adolphus Stark.** Båtburen handelsman som ofta gör affärer i Averheim (med silke ex.v.). 
+* **[Adolphus Stark](npc-index.md#Adolphus Stark).** Båtburen handelsman som ofta gör affärer i Averheim (med silke ex.v.). 
 Mörkt tjockt hår med gråsprängda tinningar. Svart helskägg med silverådror.
 * **Albrecht Krug.** Stor och bullrig man med råttfärgat ovårdat hår. Bred näsa som slagits 
 sönder vid några tillfällen. Kultist i _The Order of the Unblinking Eye_. Körkarl, anställd 
@@ -109,3 +109,5 @@ bestmanna-hjord som härjar i området kring Oberslecht.
 * [Matheus Malthuisen, Barber-Surgeon](npc-matheus-malthuisen-barber-surgeon.md){:target="_blank"}
 * [Prester Nordlingen, Politician](npc-prester-nordligen-politician.md){:target="_blank"}
 * [Professor Ferdinand Pflaumbe, Charlatan](npc-ferdinand-pflaumbe-charlatan.md){:target="_blank"}
+
+<a name="Adolphus Stark"></>Adolphus Stark
