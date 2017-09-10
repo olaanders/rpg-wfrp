@@ -110,4 +110,4 @@ bestmanna-hjord som härjar i området kring Oberslecht.
 * [Prester Nordlingen, Politician](npc-prester-nordligen-politician.md){:target="_blank"}
 * [Professor Ferdinand Pflaumbe, Charlatan](npc-ferdinand-pflaumbe-charlatan.md){:target="_blank"}
 
-<a name="Adolphus Stark"></>Adolphus Stark
+<a name="Adolphus Stark"/>Adolphus Stark
