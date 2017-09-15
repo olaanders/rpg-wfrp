@@ -17,6 +17,8 @@ _Orcs are an all-too-familiar sight to many ordinary folk
  tusk-filled mouths. It is perhaps no coincidence that the Orc
  mount of choice is the Wild Boar._
  
+ <br/>
+ 
  ## Black Orc/Svartorch
  
 _Black Orcs are the biggest and strongest of all the Orc
@@ -62,6 +64,8 @@ Helmet)
 **Weapons:** Choppa, Hand Weapon or Great Weapon, Shield
 
 **Slaughter Margin:** Challenging
+
+<br/>
 
 ## Common Orc/Orch
 _Black Orcs are few in number, so it is the Common Orcs that
@@ -114,6 +118,8 @@ Leather Skullcap)
 **Weapons:** Choppa, Dagger or Bow, Shield
 
 **Slaughter Margin:** Average
+
+<br/>
 
 ## Savage Orc/Vildorch
 

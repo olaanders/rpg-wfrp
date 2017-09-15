@@ -15,6 +15,8 @@ fur is frequently coloured either brown or piebald, though
 larger Skaven often have black fur, and white fur is seen as a
 sign of their God’s favour._
  
+<br/>
+
 ## Clanrats/Klanråttor
  
 _The bulk of the Skaven are members are one of the Warlord
@@ -42,6 +44,8 @@ Tunnel Rat
 **Weapons:** Hand Weapon, Dagger or Sling, Shield
 
 **Slaughter Margin:** Routine
+
+<br/>
 
 ## Clan Eshin Night Runners/Klan Eshins Nattlöpare
 
@@ -74,6 +78,8 @@ Rat
 **Weapons:** 2 Hand Weapons, Sling or Throwing Stars
 
 **Slaughter Margin:** Average
+
+<br/>
 
 ## Clan Moulder Packmasters/Klan Moulders Flockledare
 
@@ -114,6 +120,8 @@ Training and Command Tests.
 
 **Slaughter Margin:** Routine
 
+<br/>
+
 ## Clan Pestilence Plague Monks/Klan Pestilance Pestmunkar
 
 _Pestilens is the foulest of the Skaven clans. Its dedication to
@@ -144,6 +152,8 @@ Disease, Tunnel Rat
 **Weapons:** 2 Hand Weapons
 
 **Slaughter Margin:** Routine
+
+<br/>
 
 ## Clan Skryre Skirmishers/Klan Skryres Skärmytslare
 
@@ -185,6 +195,8 @@ Treat the Warplock Pistol as a Pistol with Damage
 Pistols
 
 **Slaughter Margin:** Average
+
+<br/>
 
 > Skaven Magic: The most potent Skaven spellcasters are the Grey Seers. These
 insidious sorcerers are powerful leaders in Skaven society. Until
