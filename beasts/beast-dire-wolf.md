@@ -1,10 +1,10 @@
 # Dire Wolf/Nattvarg
 
 _Dire Wolves are hideous Undead creatures with skull-like
- heads, glowing red eyes, and rotting black fur. Found
- particularly in Sylvania as minions of the von Carstein
- Vampires, Dire Wolves are greatly feared by the peasantry.
- When slain, Dire Wolves dissolve into nothing._
+heads, glowing red eyes, and rotting black fur. Found
+particularly in Sylvania as minions of the von Carstein
+Vampires, Dire Wolves are greatly feared by the peasantry.
+When slain, Dire Wolves dissolve into nothing._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
