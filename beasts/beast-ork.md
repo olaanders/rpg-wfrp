@@ -1,36 +1,36 @@
 # Ork/Orch
 
 _Orcs are an all-too-familiar sight to many ordinary folk
- throughout much of the Old World, especially to the
- south where Orc and other Greenskin tribes raid out of the
- Badlands on a regular basis._
- 
- _The typical Orc soldier is no taller than an adult Human,
- but part of the reason for this is that the Orc never stands as
- straight as a Human; certainly, the Orc will have up to twice
- the mass of the man, much of it in the form of compact
- muscle and strong bone. Orc skin comes in various shades of
- green, from pale off-white greens all the way to the greenish-
- black hues of the Black Orcs. Their faces look somewhere
- between an ugly Human’s and a hairless boar’s, with short but
- pointed ears, low foreheads, heavy brows, small eyes and huge
- tusk-filled mouths. It is perhaps no coincidence that the Orc
- mount of choice is the Wild Boar._
- 
- <br/>
- 
- ## Black Orc/Svartorch
- 
+throughout much of the Old World, especially to the
+south where Orc and other Greenskin tribes raid out of the
+Badlands on a regular basis._
+
+_The typical Orc soldier is no taller than an adult Human,
+but part of the reason for this is that the Orc never stands as
+straight as a Human; certainly, the Orc will have up to twice
+the mass of the man, much of it in the form of compact
+muscle and strong bone. Orc skin comes in various shades of
+green, from pale off-white greens all the way to the greenish-
+black hues of the Black Orcs. Their faces look somewhere
+between an ugly Human’s and a hairless boar’s, with short but
+pointed ears, low foreheads, heavy brows, small eyes and huge
+tusk-filled mouths. It is perhaps no coincidence that the Orc
+mount of choice is the Wild Boar._
+
+<br/>
+
+## Black Orc/Svartorch
+
 _Black Orcs are the biggest and strongest of all the Orc
- breeds and because of this they often provide the leadership
- for Orc tribes. Black Orcs are not necessarily any more
- intelligent than any other Orcs, but they are almost
- invariably more determined. It is said they fought their
- way out from under the whips of the Chaos Dwarfs many
- centuries ago, though bringing up that subject with them is,
- essentially, suicide. They are darker-skinned than other Orcs
- and even more massively muscled. They brook no failure
- from any of their subordinates and live only to make war._
+breeds and because of this they often provide the leadership
+for Orc tribes. Black Orcs are not necessarily any more
+intelligent than any other Orcs, but they are almost
+invariably more determined. It is said they fought their
+way out from under the whips of the Chaos Dwarfs many
+centuries ago, though bringing up that subject with them is,
+essentially, suicide. They are darker-skinned than other Orcs
+and even more massively muscled. They brook no failure
+from any of their subordinates and live only to make war._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|
