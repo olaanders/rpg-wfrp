@@ -85,8 +85,8 @@ Rat
 
 _The Ratmen of Clan Moulder are the mad geniuses
 of Skaven society. They use surgery, dark magic, and
-Warpstone to create foul beasts like Rat Ogres (see page
-105) to serve them. Packmasters drive these creations
+Warpstone to create foul beasts like Rat Ogres to 
+serve them. Packmasters drive these creations
 into battle with wicked whips, controlling them with
 unparalleled expertise._
 
