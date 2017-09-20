@@ -17,6 +17,8 @@ to eat the corpse, which often distracts the others and causes
 a fight to break out as the Trolls squabble over the choicest
 morsels of meat._
 
+<br/>
+
 ## Common Troll/Troll
 
 _Unfortunately for the good citizens of the Old World,
@@ -68,6 +70,8 @@ obvious reasons).
 
 **Slaughter Margin:** Hard
 
+<br/>
+
 ## Chaos Troll/Kaostroll
 
 _Chaos Trolls are even more fearsome, stench-laden, and
@@ -109,6 +113,8 @@ as appropriate.
 
 **Slaughter Margin:** Hard
 
+<br/>
+
 ## River Troll/Flodtroll
 
 _A River Troll somewhat resembles the bottom of the river,
@@ -148,6 +154,8 @@ smell or have some means of nullifying said sense.
 **Weapons:** Claws and Great Weapon
 
 **Slaughter Margin:** Hard
+
+<br/>
 
 ## Stone Troll/Grottroll
 

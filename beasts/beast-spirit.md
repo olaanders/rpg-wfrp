@@ -5,6 +5,8 @@ Spirits of the dead often return to haunt the lands of the
 living. Some seek only release, while others hate the living
 with such passion that they give themselves over to evil._
 
+<br/>
+
 ## Ghost/Spöke
 
 _Unless somehow coerced by powerful evil forces, Ghosts
@@ -54,6 +56,8 @@ the current whereabouts of its body.
 **Slaughter Margin:** Average (Impossible without a magic
 weapon or spells)
 
+<br/>
+
 ## Poltergeist
 
 _Poltergeists are similar to Ghosts, but they love to frighten
@@ -89,6 +93,8 @@ door or knock over items with an Encumbrance of
 
 **Slaughter Margin:** Routine (Impossible without a magic
 weapon or spells)
+
+<br/>
 
 ## Spectre/Vålnad
 
