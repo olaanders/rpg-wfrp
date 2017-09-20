@@ -5,4 +5,4 @@
 * [Rollpersoner](characters/pc-index.md){:target="_blank"}
 * [SLP](characters/npc-index.md){:target="_blank"}
 * [Platser](places/places-index.md){:target="_blank"}
-* [Bestarium](beasts/beasts-index.md){:target="_blank"}
+* [Bestarium](beasts/beast-index.md){:target="_blank"}

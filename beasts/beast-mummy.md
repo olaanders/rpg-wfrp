@@ -1,24 +1,24 @@
 # Mummy/Mumie
 
 _Mummies are made from the corpses of ancient warriors
- that were wrapped in funeral linens and embalmed to
- prevent decay. Many of the oldest civilizations of Humans,
- most notably those of Araby and the great southern empire
- of Nehekhara, interred their dead in such fashion. With
- the rise of the Great Necromancer Nagash and his cursed
- art, many of these preserved dead were disturbed from
- their rest and animated. Unlike the more mindless Undead,
- such as Skeletons and Zombies, Mummies always have a
- will of their own. Indeed, their will is so strong they can
- command lesser forms of Undead to do their bidding. The
- few Mummies that dwell in the Empire are content to lie
- still in their sarcophagi until something disturbs their rest.
- They swiftly crush anything that stirs them from their sleep
- before returning to their tomb. There are a few, though, that
- retain the agendas they had in life, which can make them
- terrible foes. They are usually armed as they were in life.
- Weapons and armour that have survived untarnished down
- the long ages with a Mummy are doubtless magical._
+that were wrapped in funeral linens and embalmed to
+prevent decay. Many of the oldest civilizations of Humans,
+most notably those of Araby and the great southern empire
+of Nehekhara, interred their dead in such fashion. With
+the rise of the Great Necromancer Nagash and his cursed
+art, many of these preserved dead were disturbed from
+their rest and animated. Unlike the more mindless Undead,
+such as Skeletons and Zombies, Mummies always have a
+will of their own. Indeed, their will is so strong they can
+command lesser forms of Undead to do their bidding. The
+few Mummies that dwell in the Empire are content to lie
+still in their sarcophagi until something disturbs their rest.
+They swiftly crush anything that stirs them from their sleep
+before returning to their tomb. There are a few, though, that
+retain the agendas they had in life, which can make them
+terrible foes. They are usually armed as they were in life.
+Weapons and armour that have survived untarnished down
+the long ages with a Mummy are doubtless magical._
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |--|--|-|-|--|---|--|---|

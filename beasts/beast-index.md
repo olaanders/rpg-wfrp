@@ -65,3 +65,9 @@
 * [Rat Ogres/Råttresar](beast-rat-ogre.md){:target="_blank"}
 * [Skaven/Råttmän](beast-skaven.md){:target="_blank"}
 * [Skeletons/Skelett](beast-skeleton.md){:target="_blank"}
+* [Squigs/Krumelbestar](beast-squig.md){:target="_blank"}
+* [Snotlings](beast-snotling.md){:target="_blank"}
+* [Spirits/Andeväsen](beast-spirit.md){:target="_blank"}
+* [Treemen/Trädmän](beast-treeman.md){:target="_blank"}
+* [Trolls/Troll](beast-troll.md){:target="_blank"}
+* [Vampire Bats/Vampyrfladdermöss](beast-vampire-bat.md){:target="_blank"}
