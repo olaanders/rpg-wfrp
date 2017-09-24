@@ -71,3 +71,11 @@
 * [Treemen/Trädmän](beast-treeman.md){:target="_blank"}
 * [Trolls/Troll](beast-troll.md){:target="_blank"}
 * [Vampire Bats/Vampyrfladdermöss](beast-vampire-bat.md){:target="_blank"}
+* [Vampires/Vampyrer](beast-vampire.md){:target="_blank"}
+* [Warhawks/Rock](beast-warhawk.md){:target="_blank"}
+* [Werecreatuers/Hamnskiftare](beast-werecreature.md){:target="_blank"}
+* [Wights/Högre Odöda](beast-wight.md){:target="_blank"}
+* [Wild Boars/Vildsvin](beast-wild-boar.md){:target="_blank"}
+* [Wraiths/Skuggvålnader](beast-wraith.md){:target="_blank"}
+* [Wyverns/Mörkerbestar](beast-wyvern.md){:target="_blank"}
+* [Zombies/Zombier](beast-zombie.md){:target="_blank"}
