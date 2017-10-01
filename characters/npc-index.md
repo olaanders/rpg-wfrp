@@ -28,13 +28,15 @@
 * [Balthus Thalberg](npc-index.md#Balthus Thalberg)                   
 * [Beatrice Knox](npc-index.md#Beatrice Knox)
 * [Bernhardt Kurtz](npc-index.md#Bernhardt Kurtz)
+* [Broder Albrecht](npc-index.md#Broder Albrecth)
+* [Broder Frost](npc-index.md#Broder Frost)
 * [Cruella von Ville](npc-index.md#Cruella von Ville)
 * [Dieter Jochutz](npc-index.md#Dieter Jochutz)
 * [Flea](npc-index.md#Flea)
 * [Florian Wechsler (✝)](npc-index.md#Florian Wechsler)
 * [Foaldeath](npc-index.md#Foaldeath)
 * [Frederich Grosz](npc-frederich-grosz.md){:target="_blank"}
-* [Fritz Flink](npc-index.md#Fritz Flink)    
+* [Fritz Flink](npc-index.md#Fritz Flink)   
 * [Gerd Knakk](npc-index.md#Gerd Knakk)
 * [Gottfried Hansson](npc-index.md#Gottfried Hansson)
 * [Graf Friederich von Kaufmann](npc-friederich-kaufmann.md){:target="_blank"}
@@ -65,6 +67,7 @@
 * [Werner Klebb](npc-index.md#Werner Klebb)
 * [Ute Herz (✝)](npc-index.md#Ute Herz)
 * [Viktor Keller](npc-index.md#Viktor Keller)
+* [Överstepräst Weiss](npc-index.md#Överstepräst Weiss)
 
 ## SLP i rockärmen
 * [Boros, Dwarf Daemon Slayer](npc-boros-dwarf-daemon-slayer.md){:target="_blank"}
@@ -140,6 +143,19 @@ Bernhardt är en storvuxen man i 50 års åldern med
 en tilltagen midja och undfyende hårlinje. Han har ett
 par imponerande polisonger och saknar tre fngrar på
 vänster hand. Förvisso trevlig men ändå lakonisk.
+
+## <a name="Broder Albrecth"/>Broder Albrectht
+Ulricansk präst i Middenheim. En tjock man med ett stripigt skägg. Han bär alltid sin gråa vargmantel och
+en bleknad blå prästrock. Albrecht är första försvar mot besökare till det
+Ulricanska templet i Middenheim.
+
+## <a name="Broder Frost"/>Broder Frost
+Ulricansk präst i Middenheim. En ung präst med en 
+träprotes till fot (förlorad vid Frosts initieringsrit). 
+En lent ansikte med antydan till fjunig mustache och skägg.
+Oerhört intelligent men också ofattbart klumpig. Har ett
+förflutet vid _Teologiska Kollegiet_. Anvarar för
+ärenden som har med pilgrimerna i Middenheim att göra.
 
 ## <a name="Cruella von Ville"/>Cruella von Ville
 Rik, äldre, kvinna gift med Wolfgang von Ville,
@@ -413,3 +429,10 @@ bondlurk som försöker undvika att bli blåst på affärer
 när han är i Averheim. Luktar som hans yrke
 anbefaller. Slitna kläder och icke-frisyr. Haltar efter
 att ha blivit sparkad av en av sina kära kossor.
+
+## <a name="Överstepräst Weiss"/>Överstepräst Weiss
+Storvuxen man i 60 års åldern med stålblå ögon och ett långt
+vitt skägg. Bär alltid sin ringbrynja, sin vita varg
+mantel och håller sin tvåhandshammare i närheten. En gång i
+tiden tillhörde Weiss den Teutogniska Högvakten. Han
+är kort och lakonisk i sitt sätt att tala och föra sig.
