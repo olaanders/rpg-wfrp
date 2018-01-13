@@ -1,9 +1,7 @@
 # Grim and perilous adventure awaits...
 Warhammers mörka, smutsiga och oförlåtande värld väntar dig...
 
-
-|  |  |
-|:----:|:-------------|
+|:----|:-------------|
 | [Husregler](http://homebrewery.naturalcrit.com/edit/H1g2O-y7ZG){:target="_blank"} | "Random chance plays a huge part in everybody’s life" |
 | [The End Times](campaigns/the-end-times/the-end-times.md){:target="_blank"} | Pågående kampanj. |
 | [RP](characters/pc-index.md){:target="_blank"} | Rollpersoner kommer och går, endast SL består. |
