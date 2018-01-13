@@ -17,7 +17,7 @@ kretsar kring äventyren *A Day Late A Shilling Short (ADLASS)*, *An Eye For An 
 Dessa [Spelledarpersoner (SLP)](characters/npc-index.md){:target="_blank"} kommer av olika
 anledningar i vägen för RP:na.
 
-## Platser (places/places-index.md){:target="_blank"}
+## [Platser](places/places-index.md){:target="_blank"}
 Warhammer är fyllt av fantastiska [platser](places/places-index.md){:target="_blank"}, vissa livsfarliga, andra bara farliga.
 
 
