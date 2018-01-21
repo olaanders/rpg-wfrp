@@ -11,6 +11,26 @@ gulsvarta uniform, som han oftast syns bära, dignar av
 medaljer och utmärkelser som han egentligen inte
 bryr sig om._
 
-[Bild - Marcus Baerfaust](https://drive.google.com/file/d/0B1mLHM9FvbskaEExRThsNDQ5QzA/view?usp=sharing){:target="_blank"}
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
+|78|53|52|62|47|51|65|51|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|3|19|5|6|5|0|7|2|
 
-För stat blocks, se [Officerare](npc-officer.md){:target="_blank"}.
+**Skills:** Academic Knowledge (Law, Strategy/Tactics), Command +10%, Common
+Knowledge (the Empire +10%), Dodge Blow, Follow Trail, Gossip +10%,
+Intimidate +20%, Perception +20%, Ride, Search, Secret Language (Battle
+Tongue)
+
+**Talents:** Acute Hearing, Coolheaded, Disarm, Fleet Footed, Menacing, 
+Specialist Weapon Group (All), Street Fighting, Strike Mighty Blow, Strike to 
+Stun, Very Resilient
+
+**Armour:** Medium Armour (Full Mail Armour, Helmet)
+
+**Armour Points:** Head 5, Arms 3, Body 3, Legs 3
+
+**Weapons:** Hand Weapon, Shiled and Dagger
+
+**Trappings:** Several decorations, Badge of Office and Watch uniform (Averheim)
+
+[Bild - Marcus Baerfaust](https://drive.google.com/file/d/0B1mLHM9FvbskaEExRThsNDQ5QzA/view?usp=sharing){:target="_blank"}

@@ -49,3 +49,26 @@ Riding, Very Strong
 
 **Trappings:** Band of Outlaws, Dashing Moustache, Horse with Saddle
 and Harness, Mask, Noble’s Garb, Powder for 20 Shots, Tricorne Hat
+
+<br/>
+
+# Slagskämpe
+
+|**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
+|41|31|40|41|31|25|33|28|
+|**A**|**W**|**SB**|**TB**|**M**|**Mag**|**IP**|**FP**|
+|1|12|4|4|4|0|0|0|
+
+**Skills:** Common Knowledge (the Empire), Consume Alcohol, Dodge Blow, Gossip,
+Slight of Hand, Intimidate, Perception, Search
+
+**Talents:** Specialist Weapon Group (Entangling), Street Fighting, Very 
+Resilient, Very Strong, Wrestling
+
+**Armour:** Light Armour (Leather Jerkin)
+
+**Armour Points:** Head 0, Arms 0, Body 1, Legs 0
+
+**Weapons:** Hand Weapon (Club)
+
+**Trappings:** Dirty clothes, 2 s and 9 brass in pocket

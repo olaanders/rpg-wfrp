@@ -2,12 +2,14 @@
 
 ## Typiska SLP
 * [Aristokrat](npc-noble.md){:target="_blank"}
+* [Averheim Greatswords](npc-averheim-greateswords.md){:target="_blank"}
 * [Bonde](npc-farmer.md){:target="_blank"}
 * [Byråkrat](npc-bureaucrat.md){:target="_blank"}
 * [Häxjägare](npc-withchunger.md){:target="_blank"}
 * [Hantverkare](npc-artisan.md){:target="_blank"}
 * [Handelsman](npc-tradesman.md){:target="_blank"}
 * [Jägare](npc-hunter.md){:target="_blank"}
+* [Kultist](npc-cultist.md){:target="_blank"}
 * [Lärd](npc-scholar.md){:target="_blank"}
 * [Missdådare](npc-evildoer.md){:target="_blank"}
 * [Officerare](npc-officer.md){:target="_blank"}
@@ -17,6 +19,7 @@
 * [Stadsbo](npc-townsperson.md){:target="_blank"}
 * [Stadsvakt](npc-city-watch.md){:target="_blank"}
 * [Trollkarl](npc-wizard.md){:target="_blank"}
+* [Uppviglare](npc-agitator.md){:target="_blank"}
 
 ## Namngivna SLP
 * [Adele Ketzenblum](npc-adele-ketzenblum.md){:target="_blank"}
@@ -25,9 +28,11 @@
 * [Alfred Kühle](npc-index.md#Alfred Kühle)
 * [Anders Blucher](npc-index.md#Anders Blucher)
 * [Arno Kessler](npc-index.md#Arno Kessler)
+* [Arta Schaffer](npc-arta-schaffer.md){:target="_blank"}
 * [Balthus Thalberg](npc-index.md#Balthus Thalberg)                   
 * [Beatrice Knox](npc-index.md#Beatrice Knox)
 * [Bernhardt Kurtz](npc-index.md#Bernhardt Kurtz)
+* [Bertolt Bassermann](npc-bertolt-bassermann.md){:target="_blank"}
 * [Broder Albrecht](npc-index.md#Broder Albrecth)
 * [Broder Frost](npc-index.md#Broder Frost)
 * [Cruella von Ville](npc-index.md#Cruella von Ville)
