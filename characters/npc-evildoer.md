@@ -52,7 +52,7 @@ and Harness, Mask, Noble’s Garb, Powder for 20 Shots, Tricorne Hat
 
 <br/>
 
-# Slagskämpe
+## Slagskämpe
 
 |**WS**|**BS**|**S**|**T**|**Ag**|**Int**|**WP**|**Fel**|
 |41|31|40|41|31|25|33|28|

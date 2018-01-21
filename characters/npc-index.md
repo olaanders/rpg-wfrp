@@ -64,7 +64,7 @@
 * [Olver Gand](npc-index.md#Olver Gand)
 * [Philip Adler](npc-index.md#Philip Adler)
 * [Rambrecht Delfholt](npc-index.md#Rambrecht Delfholt)
-* [Robertus von Oppenheim](npc-index.md#Robertus von Oppenheim)
+* [Robertus von Oppenheim (✝)](npc-index.md#Robertus von Oppenheim)
 * [Rolf Heller (✝)](npc-index.md#Rolf Heller)
 * [Rutger Abend](npc-index.md#Rutger Abend)
 * [Theodore Grabbe](npc-index.md#Theodore Grabbe)
